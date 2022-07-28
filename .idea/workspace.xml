@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e89e2945-a0da-45e5-a919-c7fd1733c8a7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="2Bc3UIltcZZ2SIkkQf8cWk9kVKg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="default_deploy_id" value="f9211c0c-23bd-4418-936b-9ae2fd9df3a3" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="system.adk" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ZZL\AscendProjects\ShuffleNetV2Plus_MxBase" />
+      <recent name="C:\Users\ZZL\AscendProjects\ShuffleNetV2Plus_MxBase\src" />
+      <recent name="C:\Users\ZZL\AscendProjects\ShuffleNetV2Plus_MxBase\model" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Ascend App.ShuffleNetV2Plus_MxBase">
+    <configuration name="ShuffleNetV2Plus_MxBase" type="Ascend App Configuration Type" factoryName="Ascend App" executable="out/ShuffleNetV2Plus_MxBase" runMode="Remote" deployId="f9211c0c-23bd-4418-936b-9ae2fd9df3a3" commandArguments="" environmentVariables="">
+      <method v="2">
+        <option name="RunConfigurationTask" enabled="true" run_configuration_name="preprocess" run_configuration_type="Ascend App Configuration Type" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Ascend App Configuration Type" factoryName="Ascend App" executable="" runMode="Remote" deployId="f9211c0c-23bd-4418-936b-9ae2fd9df3a3" commandArguments="" environmentVariables="">
+      <method v="2" />
+    </configuration>
+    <configuration name="preprocess" type="Ascend App Configuration Type" factoryName="Ascend App" executable="preprocess.py" runMode="Remote" deployId="f9211c0c-23bd-4418-936b-9ae2fd9df3a3" commandArguments="" environmentVariables="">
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Ascend App.ShuffleNetV2Plus_MxBase" />
+      <item itemvalue="Ascend App.preprocess" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+</project>
